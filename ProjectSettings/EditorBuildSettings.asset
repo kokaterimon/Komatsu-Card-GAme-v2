@@ -6,6 +6,36 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Interfaces/1_MenuDeInicio.unity
+    guid: 49a875eccba5e334780938f102123fa9
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/2_Log IN.unity
+    guid: caf4f3bc4e7594a418d63c18bcc39a17
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/3-1_Register.unity
+    guid: 5b86de26deeb5cd4391c03f791aabe85
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/3-2_Register.unity
+    guid: f936a993c77e7d34b9fd5befb4d17ef3
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/4_MenuPrincipal.unity
+    guid: 06cf7316a6f76af48be3c02844a87fb9
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/5_MenuCartas.unity
+    guid: 03e7a679040f04b45b52edff6e2760a4
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/6_Menu-Configuracion.unity
+    guid: 4f176265c6bca9640ab48f48df8431be
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/7_Menu-Estadisiticas.unity
+    guid: fbb2b85ab58bf104fbe0b38327dd4143
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/8_Menu-Cupones.unity
+    guid: bbbe50ff8ec6749458d7a567e4e49f23
+  - enabled: 1
+    path: Assets/Scenes/Interfaces/9_Menu-Tienda.unity
+    guid: 352fb0d992942d648b732119801278a9
+  - enabled: 1
     path: Assets/Scenes/Offline.unity
     guid: 8fabfd51a8a6a47458e78f59b758ee3b
   - enabled: 1
