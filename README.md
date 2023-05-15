@@ -1,2 +1,3 @@
-# Online-Tutorial
-Исходник моей онлайн игры
+# Readme
+Juego de cartas
+
